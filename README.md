@@ -25,7 +25,7 @@
 
 
 ## 预览
-![微信截图_20250108083954](https://github.com/user-attachments/assets/8c1d743e-8398-4514-a942-0845ba2825cb)
+
 ![微信截图_20241114100259](https://github.com/user-attachments/assets/04de6154-ef31-4f35-af7b-efb7496f184a)
 ![微信截图_20241104132126](https://github.com/user-attachments/assets/5b2c67fc-9f84-4cad-a9d3-3576b544fc50)
 ![微信截图_20241104132107](https://github.com/user-attachments/assets/cc58d2b1-5763-452e-83b4-b5a9e1ecbd63)
@@ -35,7 +35,7 @@
 ![预览图1](https://github.com/ubugA/-212/assets/145946698/908230c9-37ce-415e-ab0f-25c1b2a14250)
 ![微信截图_20240613135633](https://github.com/ubugA/dongjiao/assets/145946698/98ab1d76-866f-4bc6-803b-58ff97c3c2a9)
 ![微信截图_20241104133802](https://github.com/user-attachments/assets/e9286ced-f37a-4bea-8f0f-be96819f1f45)
-
+![微信截图_20250108083954](https://github.com/user-attachments/assets/8c1d743e-8398-4514-a942-0845ba2825cb)
 ## 功能介绍
 
 　到家系统（演示功能更强大）
