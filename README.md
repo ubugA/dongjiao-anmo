@@ -8,6 +8,7 @@
 
 
 ## 预览
+### 样式一
 ![微信截图_20250429094521](https://github.com/user-attachments/assets/6d27b3ef-284f-46ed-ab60-a77657cf2581)
 ![微信截图_20250408105227](https://github.com/user-attachments/assets/0815711d-c4fe-4e5e-aa0e-c604116ddc19)
 ![微信截图_20241114100259](https://github.com/user-attachments/assets/04de6154-ef31-4f35-af7b-efb7496f184a)
@@ -21,6 +22,13 @@
 ![微信截图_20241104133802](https://github.com/user-attachments/assets/e9286ced-f37a-4bea-8f0f-be96819f1f45)
 ![微信截图_20250108083954](https://github.com/user-attachments/assets/8c1d743e-8398-4514-a942-0845ba2825cb)
 ![微信截图_20250107082641](https://github.com/user-attachments/assets/fd4242b9-84d3-452a-9923-e41b1ef8256f)
+### 样式二
+<img width="385" height="844" alt="ScreenShot_2026-08-20_152424_605" src="https://github.com/user-attachments/assets/75993c64-1b25-4cb0-8249-bcd9f8fc5331" />
+<img width="389" height="842" alt="ScreenShot_2026-08-20_152513_917" src="https://github.com/user-attachments/assets/165dd71a-40ba-4b1c-9e63-ba4f065d260f" />
+<img width="389" height="839" alt="ScreenShot_2026-08-20_152502_589" src="https://github.com/user-attachments/assets/5f2e60d1-2722-4fb2-be27-c3f518e89978" />
+
+
+
 ## 功能介绍
 
 　到家系统（演示功能更强大）
